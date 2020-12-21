@@ -1,0 +1,25 @@
+.imgstyle{
+    width: 400px;
+    background-color: rgba(114, 114, 114, 0.075);
+    border-bottom: 1px solid rgba(138, 138, 138, 0.151);
+}
+.box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* border: 1px solid rgba(138, 138, 138, 0.411); */
+    box-shadow: 0 0 3px rgba(138, 138, 138, 0.774);
+    border-radius: 10px;
+    margin: 20px 20px;
+}
+
+.price{
+    padding: 20px 20px;
+}
+
+.price h3{
+    margin: auto 0 5px 0;
+}
+.price p{
+    margin: 0;
+}
